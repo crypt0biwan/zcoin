@@ -1,0 +1,17 @@
+{
+  "name": "zcoin",
+  "version": "1.0.0",
+  "description": "zcoin market cap",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "crypt0biwan",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoin-fiat-price": "^0.1.1",
+    "currency-formatter": "^1.0.4",
+    "lodash": "^4.16.4",
+    "q": "^1.4.1"
+  }
+}
