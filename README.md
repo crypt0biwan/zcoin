@@ -3,6 +3,10 @@ Zcoin market cap
 
 This script runs on Nodejs version `6.2.2` and checks the market cap of [zcoin](https://zcoin.tech/) based on the last traded price at [novaexchange](https://novaexchange.com). It outputs the latest details in the console.
 
+Prerequisites
+===
+[Install Nodejs](https://nodejs.org/en/)
+
 Installation
 ===
 ```
